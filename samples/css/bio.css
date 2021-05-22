@@ -126,6 +126,7 @@
 	#address p {
 	  line-height: 1.8;
 	  font-weight: normal;
+	  text-align: center;
 	}
 	#testimonials {
 	  font-style: italic;
@@ -197,10 +198,6 @@
 		padding-right: 0px;
 	}
 
-	#address p {
-		text-align: center;
-	}}
-
 @media (max-width: 499px) {
 
 	section {
@@ -224,6 +221,10 @@
 
 	#model-3, #roadster {
 		height: 100px;
+	}
+
+	#address p {
+		text-align: center;
 	}
 
 	#model-s {
