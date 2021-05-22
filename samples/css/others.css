@@ -194,7 +194,6 @@
 
 	h2, p, b, article, #musk, footer {
 		font-size: 85%;
-		color: blue;
 	}
 
 	#caption {
@@ -209,6 +208,6 @@
 	}
 
 	div#photo2 {
-		height: 110px;
+		height: 90px;
 	}
 }}
