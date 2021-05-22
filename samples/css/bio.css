@@ -215,13 +215,36 @@
 	}
 
 	#elonm {
-		height: 200px;
+		height: 180px;
 	}
 
 	div#photo {
 		height: 220px;
 	}
 
-	#model-3, #roadster {
+	#model-3, #roadster, #model-s {
 		height: 120px;
+	}
+
+	p, b, article, #musk, footer {
+		font-size: 90%;
+	}
+	
+	#companies {
+		font-size: 30px;
+	}
+
+	#sub {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+
+		#Tesla, #satelite, #cohete {
+		height: 20px;
+		border-radius: 5px;
+		text-align: center;
+	}
+
+	#Zip2-Corporation, #PayPal, #SpaceX,{
+		height: 25px;
 	}

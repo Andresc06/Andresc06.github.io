@@ -191,4 +191,7 @@
 	div#photo {
 		height: 200px;
 	}
+	h2, p, b, article, #musk, footer {
+		font-size: 90%;
+	}
 }}

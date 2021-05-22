@@ -132,5 +132,9 @@
 	#address p {
 		text-align: center;
 	}
+
+	strong, h2, p, b, article, #musk, footer {
+		font-size: 90%;
+	}
 }}
 
