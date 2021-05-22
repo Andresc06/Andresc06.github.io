@@ -9,6 +9,8 @@
 		border-radius: 15px;
 	}}
 
+	#lnk:hover {color:#C70039;}
+
 	h1 {
 		font-weight: 900;
 		font-size: 5em;
@@ -138,6 +140,7 @@
 		text-decoration: none;
 		color: #A9A9A9;
 		font-weight: bold;
+
 
 	}
 

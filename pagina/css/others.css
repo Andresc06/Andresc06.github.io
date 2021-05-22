@@ -9,6 +9,8 @@
 		border-radius: 15px;
 	}}
 
+	#lnk:hover {color:#C70039;}
+
 	h1 {
 		font-size: 5em;
 		text-align: center;

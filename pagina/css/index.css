@@ -9,6 +9,8 @@
 		opacity: 0.95;
 	}}
 
+	#lnk:hover {color:#C70039;}
+
 	h1 {
 		font-weight: bold;
 		font-size: 50px;
