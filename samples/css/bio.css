@@ -74,6 +74,7 @@
 	#Tesla, #satelite, #cohete {
 		height: 35px;
 		border-radius: 5px;
+		text-align: center;
 	}
 
 	#sub {
@@ -153,7 +154,7 @@
 	}
 }
 
-@media (max-width: 991px) {
+@media (min-width: 500px) and (max-width: 991px) {
 
 	section {
 
@@ -198,5 +199,29 @@
 
 	#address p {
 		text-align: center;
+	}}
+
+@media (max-width: 499px) {
+
+	section {
+
+		margin-right: 5%;
+		margin-left: 5%;
+		font-family: KoHo, sans-serif;
+		background-color: #E4E4E4;
+		border-radius: 2px;
+		opacity: 0.95;
+		font-size: 80%;
 	}
-}}
+
+	#elonm {
+		height: 200px;
+	}
+
+	div#photo {
+		height: 220px;
+	}
+
+	#model-3, #roadster {
+		height: 120px;
+	}
