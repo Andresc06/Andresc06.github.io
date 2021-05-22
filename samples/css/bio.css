@@ -126,7 +126,6 @@
 	#address p {
 	  line-height: 1.8;
 	  font-weight: normal;
-	  text-align: center;
 	}
 	#testimonials {
 	  font-style: italic;
@@ -198,6 +197,10 @@
 		padding-right: 0px;
 	}
 
+	#address p {
+		text-align: center;
+	}}
+
 @media (max-width: 499px) {
 
 	section {
@@ -235,6 +238,10 @@
 		font-size: 90%;
 	}
 	
+	.footer-links {
+		text-align: center;
+	}
+
 	#companies {
 		font-size: 30px;
 	}
