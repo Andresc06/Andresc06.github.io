@@ -1,0 +1,254 @@
+@media (min-width: 768px) {
+	section {
+
+		margin-right: 20%;
+		margin-left: 20%;
+		font-family: KoHo, sans-serif;
+		opacity: 0.9;
+		background-color: #E4E4E4;
+		border-radius: 15px;
+	}}
+
+	h1 {
+		font-weight: 900;
+		font-size: 5em;
+		text-align: center;
+		font-variant: small-caps;
+		color: #6E2C00;
+	}
+
+	h2 {
+		font-weight: 500;
+		font-size: 4em;
+		margin-left: 15px;
+		font-variant: small-caps;
+		color: #6E2C00;
+		}
+
+	h3 {
+		font-weight: bold;
+		margin-left: 2.5em;
+		font-variant: small-caps;
+
+	}
+
+	h4 {
+		font-weight: bold;
+		margin-left: 50px !important;
+		font-size: 1.5em !important;
+		font-variant: small-caps;
+	}
+
+	div#photo {
+		float: left;
+		margin-left: 20px;
+		margin-right: 15px;
+		border-radius: 5px;
+		height: 300px;
+	}
+
+	#musk {
+		font-weight: bold;
+		font-size: 13px;
+		text-align: center;
+	}
+
+	#companies {
+		font-size: 40px;
+		font-weight: 700;
+		color: #6E2C00;
+	}	
+
+	#PayPal {
+		height: 35px;
+	}
+
+	#SpaceX {
+		height: 40px;
+	}
+
+	#Zip2-Corporation {
+		height: 35px;
+	}
+
+	#Tesla, #satelite, #cohete {
+		height: 35px;
+		border-radius: 5px;
+		text-align: center;
+	}
+
+	#sub {
+		margin-left: 50px;
+		margin-right: 20px;
+	}
+
+	#model-3, #model-s, #roadster {
+		height: 200px;
+		border-radius: 5px;
+	}
+
+
+	p, article {
+		font-size: 18px;
+		margin-left: 18px;
+		margin-right: 18px;
+		text-align: justify;
+		font-weight: bolder;
+
+	}
+
+	figcaption {
+		font-weight: bold;
+		font-size: 0.9em;
+		padding-top: 5px;
+		font-style: italic;
+	}
+
+	.panel-footer {
+	  margin-top: 0px;
+	  padding-top: 35px;
+	  padding-bottom: 30px;
+	  background-color: #222;
+	  border-top: 0;
+	}
+	.panel-footer div.row {
+	  margin-bottom: 35px;
+	}
+	#links, #address {
+	  line-height: 2;
+	}
+	div.container {
+		color: #E1E1E1;
+	}
+	#links > h6, #address > h6 {
+	  font-size: 1.6em;
+	}
+	#address p {
+	  line-height: 1.8;
+	  font-weight: normal;
+	}
+	#testimonials {
+	  font-style: italic;
+	  font-weight: normal;
+	}
+	#testimonials p:nth-child(2) {
+	  margin-top: 25px;
+	}
+	ul > a {
+		text-decoration: none;
+		color: #A9A9A9;
+		font-weight: bold;
+
+	}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	section {
+
+		margin-right: 5%;
+		margin-left: 5%;
+		font-family: KoHo, sans-serif;
+		background-color: #E4E4E4;
+		border-radius: 2px;
+		opacity: 0.95;
+	}
+}
+
+@media (min-width: 500px) and (max-width: 991px) {
+
+	section {
+
+		margin-right: 5%;
+		margin-left: 5%;
+		font-family: KoHo, sans-serif;
+		background-color: #E4E4E4;
+		border-radius: 2px;
+		opacity: 0.95;
+		font-size: 80%;
+	}
+
+	#elonm {
+		height: 200px;
+	}
+
+	div#photo {
+		height: 220px;
+	}
+	
+	.panel-footer {
+		padding-top: 35px;
+		padding-bottom: 30px;
+		background-color: #222;
+		border-top: 0;
+		font-size: 80%;
+	}
+
+	#model-3, #roadster {
+		height: 150px;
+	}
+
+
+	.panel-footer div.row {
+		text-align: center;
+	}
+
+	.panel-footer div.container {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	#address p {
+		text-align: center;
+	}}
+
+@media (max-width: 499px) {
+
+	section {
+
+		margin-right: 5%;
+		margin-left: 5%;
+		font-family: KoHo, sans-serif;
+		background-color: #E4E4E4;
+		border-radius: 2px;
+		opacity: 0.95;
+		font-size: 80%;
+	}
+
+	#elonm {
+		height: 180px;
+	}
+
+	div#photo {
+		height: 220px;
+	}
+
+	#model-3, #roadster {
+		height: 100px;
+	}
+
+	#model-s {
+		height: 80px;
+	}
+
+	p, b, article, #musk, footer {
+		font-size: 90%;
+	}
+	
+	#companies {
+		font-size: 30px;
+	}
+
+	#sub {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+
+		#Tesla, #satelite, #cohete {
+		height: 20px;
+		border-radius: 5px;
+		text-align: center;
+	}
+
+	#Zip2-Corporation, #PayPal, #SpaceX,{
+		height: 25px;
+	}
