@@ -151,13 +151,6 @@
 		border-radius: 2px;
 		opacity: 0.95;
 	}
-		#musk {
-		font-weight: bold;
-		position: relative !important;
-		bottom: -325px !important;
-		left: -250px !important;
-		font-size: 12px;
-	}
 }
 
 @media (max-width: 991px) {
@@ -173,18 +166,14 @@
 		font-size: 80%;
 	}
 
-	img {
-		height: 180px;
+	#elonm {
+		height: 200px;
 	}
 
-	#musk {
-		font-weight: bold;
-		position: relative !important;
-		bottom: -205px !important;
-		left: -200px !important;
-		font-size: 12px;
+	div#photo {
+		height: 220px;
 	}
-
+	
 	.panel-footer {
 		padding-top: 35px;
 		padding-bottom: 30px;
@@ -192,6 +181,11 @@
 		border-top: 0;
 		font-size: 80%;
 	}
+
+	#model-3, #roadster {
+		height: 150px;
+	}
+
 
 	.panel-footer div.row {
 		text-align: center;

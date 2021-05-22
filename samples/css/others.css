@@ -187,4 +187,8 @@
 	#address p {
 		text-align: center;
 	}
+
+	div#photo {
+		height: 200px;
+	}
 }}
