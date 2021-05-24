@@ -9,6 +9,10 @@
 		border-radius: 15px;
 	}}
 
+	#external {
+		background: url(../imgs/car.jpg) no-repeat fixed center; background-size: cover;
+	}
+
 	#lnk:hover {color:#C70039;}
 
 	h1 {

@@ -9,6 +9,10 @@
 		opacity: 0.95;
 	}}
 
+	#external {
+		background: url(../imgs/home.jpg) no-repeat fixed center; background-size: cover;
+	}
+
 	#lnk:hover {color:#C70039;}
 
 	h1 {
