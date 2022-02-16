@@ -8,4 +8,3 @@ I employ the following technologies in the WebPage:
 
 * **HTML5**
 * **CSS3**
-* **Bootstrap**
