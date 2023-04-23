@@ -2,7 +2,7 @@
 
 ## Link: https://andresc06.github.io/Entrepreneurs-Inc-Page1/
 
-This is a WebPage called "Entrepreneurs Inc". It is a 3-in-1 Webpage where I talk about Bussiness Lessons from Elon Musk as well as the bussiness that Musk has. Moreover, there are bibliografies of famous entrepreneurs in the history, who I think are the most interesting. I made this page using my knowledge in **Front-End Developing** that I took in courses from Coursera and Udemy.
+This is a WebPage called "Entrepreneurs Inc". It is a 3-in-1 Webpage where I talk about Bussiness Lessons from Elon Musk as well as the bussiness that Musk owns. Moreover, there are bibliografies of famous entrepreneurs in the history, who I think are the most interesting. I made this page using my knowledge in **Front-End Developing** that I took in courses from Coursera and Udemy.
 
 I employ the following technologies in the WebPage:
 
